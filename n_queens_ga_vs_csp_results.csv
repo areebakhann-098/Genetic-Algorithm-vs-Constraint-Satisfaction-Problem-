@@ -1,0 +1,39 @@
+algorithm,N,success,runtime_sec,effort,generations,conflicts,status
+GA,4,True,0.00019397500000195578,40,1.0,0.0,Solved
+CSP,4,True,8.101999995346887e-06,9,,0.0,Solved
+GA,8,True,0.0017305060000012418,160,4.0,0.0,Solved
+CSP,8,True,3.393000000073698e-05,114,,0.0,Solved
+GA,10,True,0.005066001999992409,400,10.0,0.0,Solved
+CSP,10,True,4.210200000898112e-05,103,,0.0,Solved
+GA,12,True,0.005852989999993952,440,11.0,0.0,Solved
+CSP,12,True,9.849500000314038e-05,262,,0.0,Solved
+GA,14,False,0.07890977499999963,5160,129.0,1.0,Limit reached; no zero-conflict solution
+CSP,14,True,0.0008201969999959147,1900,,0.0,Solved
+GA,16,False,0.07731490900000892,4760,119.0,1.0,Limit reached; no zero-conflict solution
+CSP,16,True,0.004202982999998994,10053,,0.0,Solved
+GA,18,False,0.0731883090000025,4280,107.0,2.0,Limit reached; no zero-conflict solution
+CSP,18,True,0.016311533999996186,41300,,0.0,Solved
+GA,20,False,0.13175175499999625,7200,180.0,1.0,Limit reached; no zero-conflict solution
+CSP,20,True,0.07918886599999553,199636,,0.0,Solved
+GA,22,False,0.10622326300000395,5640,141.0,2.0,Limit reached; no zero-conflict solution
+CSP,22,False,0.12533661899999515,300000,,,Node limit reached
+GA,24,False,0.12936830799999655,6600,165.0,1.0,Limit reached; no zero-conflict solution
+CSP,24,False,0.14036079800000323,300000,,,Node limit reached
+GA,26,False,0.12587410000000432,5640,141.0,2.0,Limit reached; no zero-conflict solution
+CSP,26,False,0.11975972899999476,300000,,,Node limit reached
+GA,28,False,0.19090917999999135,8120,203.0,1.0,Limit reached; no zero-conflict solution
+CSP,28,False,0.13251193300000352,300000,,,Node limit reached
+GA,30,False,0.13291560700000105,5640,141.0,2.0,Limit reached; no zero-conflict solution
+CSP,30,False,0.12126179499999523,300000,,,Node limit reached
+GA,32,False,0.20310266100000263,8240,206.0,3.0,Limit reached; no zero-conflict solution
+CSP,32,False,0.14715368099999182,300000,,,Node limit reached
+GA,35,False,0.3331793119999986,12040,301.0,1.0,Limit reached; no zero-conflict solution
+CSP,35,False,0.1508532879999933,300000,,,Node limit reached
+GA,40,False,0.3635815330000014,12040,301.0,2.0,Limit reached; no zero-conflict solution
+CSP,40,False,0.14752958399999727,300000,,,Node limit reached
+GA,50,False,0.24810963500000582,7440,186.0,4.0,Limit reached; no zero-conflict solution
+CSP,50,False,0.14470633100000896,300000,,,Node limit reached
+GA,75,False,0.5385256030000107,12040,301.0,11.0,Limit reached; no zero-conflict solution
+CSP,75,False,0.140877138999997,300000,,,Node limit reached
+GA,100,False,0.7226819640000031,12040,301.0,17.0,Limit reached; no zero-conflict solution
+CSP,100,False,0.3399609880000014,300000,,,Node limit reached
